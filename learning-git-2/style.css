@@ -1,4 +1,20 @@
-/* Global */
+
 .wiersz {
   max-width: 1024px;
+  padding: 0 20px;
+}
+
+h1 {
+  font-size: 64px;
+  font-weight: bolder;
+  padding-bottom: 0;
+  margin-bottom: 0;
+}
+
+#autor {
+  margin-bottom: 32px;
+}
+
+p {
+  line-height: 1.7;
 }
